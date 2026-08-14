@@ -6,4 +6,4 @@ numpy
 plotly
 wordcloud
 matplotlib
-
+torchversion
